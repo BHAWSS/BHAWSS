@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BHAWSS
+- 👋 Hi, I’m Shubham Bhawsar.
 - 👀 I’m interested in FullStack Development with MERN.
 - 🌱 I’m currently learning AEM Franklin
 - 💞️ I’m looking to collaborate on Pfizer Projects.
