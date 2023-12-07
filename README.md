@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Bhawsar.
 - 👀 I’m interested in FullStack Development with MERN.
-- 🌱 I’m currently learning AEM Franklin
+- 🌱 I’m currently working on AEM Importer, learning AEM Franklin.
 - 💞️ I’m looking to collaborate on Pfizer Projects.
 - 📫 Reach me out for contribution in JavaScript, ReactJS, Apollo GraphQL Client, NodeJS, Database, HTML, CSS.
 
